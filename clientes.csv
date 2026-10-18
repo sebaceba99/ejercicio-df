@@ -1,0 +1,43 @@
+id_cliente,nombre,sector,clase_riesgo,estado,fecha_vinculacion
+C001,Industrias Andina SAS,Manufactura,4,activo,2019-12-24
+C002,Minera Cordillera SAS,Minería,5,activo,2019-02-22
+C003,  Servicios Cafetal SAS   ,Oficinas,2,activo,2020-12-31
+C004,Transportes Del Valle SAS,Logística,2,activo,2019-06-09
+C005,Constructora Pacífico SAS,Construcción,4,Activo,2022-07-10
+C006,Industrias Altiplano SAS,Manufactura,3,activo,2023-07-21
+C007,Minera Río Claro SAS,Minería,5,ACTIVO ,2023-05-01
+C008,Servicios Nevado SAS,Oficinas,2,activo,2023-12-16
+C009,Transportes Guadua SAS,Logística,3,activo,2019-12-21
+C010,  Constructora Bambú SAS   ,Construcción,5,activo,2022-07-29
+C011,Industrias Ceiba SAS,Manufactura,3,activo,2020-08-19
+C012,Minera Samán SAS,Minería,5,Activo,2019-11-28
+C013,Servicios Yarumo SAS,Oficinas,2,activo,2022-12-26
+C014,Transportes Arrayán SAS,Logística,3,inactivo,2020-07-18
+C015,Constructora Roble SAS,Construcción,5,activo,2022-04-23
+C016,Industrias Cedro SAS,Manufactura,4,activo,2019-08-25
+C017,Minera Palma SAS,Minería,5,activo,2021-10-27
+C018,  Servicios Orquídea SAS   ,Oficinas,2,activo,2023-07-10
+C019,Transportes Colibrí SAS,Logística,3,activo,2021-06-15
+C020,Constructora Cóndor SAS,Construcción,4,activo,2020-11-08
+C021,Industrias Puma SAS,Manufactura,3,activo,2020-07-09
+C022,Minera Jaguar SAS,Minería,5,activo,2019-10-20
+C023,Servicios Tucán SAS,Oficinas,1,activo,2023-09-04
+C024,Transportes Garza SAS,Logística,3,activo,2019-07-03
+C025,Constructora Turpial SAS,Construcción,4,activo,2020-06-25
+C026,Industrias Mirla SAS,Manufactura,4,activo,2023-07-19
+C027,Minera Azulejo SAS,Minería,5,activo,2019-01-26
+C028,Servicios Toche SAS,Oficinas,1,activo,2021-06-14
+C029,Transportes Barranquero SAS,Logística,3,activo,2020-12-31
+C030,Constructora Gualanday SAS,Construcción,4,inactivo,2020-01-26
+C031,Industrias Chiminango SAS,Manufactura,3,activo,2022-04-04
+C032,Minera Ocobo SAS,Minería,5,activo,2020-10-15
+C033,Servicios Pino SAS,Oficinas,1,activo,2022-08-19
+C034,Transportes Eucalipto SAS,Logística,2,activo,2024-04-13
+C035,Constructora Nogal SAS,Construcción,4,activo,2024-02-14
+C036,Industrias Cerezo SAS,Manufactura,4,activo,2024-03-28
+C037,Minera Almendro SAS,Minería,5,activo,2023-05-14
+C038,Servicios Tulipán SAS,Oficinas,2,activo,2022-04-28
+C039,Transportes Laurel SAS,Logística,2,activo,2020-11-21
+C040,Constructora Olivo SAS,Construcción,4,activo,2024-03-08
+C901,PRUEBA - no usar,Oficinas,1,activo,2024-01-01
+C902,PRUEBA QA sistema,Minería,5,activo,2024-01-01
